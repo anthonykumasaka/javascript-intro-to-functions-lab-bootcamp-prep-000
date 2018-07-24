@@ -20,5 +20,5 @@ function whisper(string) {
 
 function logShout(string) {
   if (string.toUpperCase === uppercase) {
-    spy
+     console.log(string)
 }
