@@ -19,7 +19,7 @@ describe('logShout(string)', function() {
 })
 
 function logShout(string) {
-  console.log(string.toUpperCase)
+  console.log(string.toUpperCase())
 }
 
 // describe('sayHiToGrandma(string)', function() {
