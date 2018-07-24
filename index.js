@@ -28,6 +28,6 @@ function sayHiToGrandma(string) {
   } else if (string == "I love you, Grandma.") {
     return "I love you, too"
   } else {
-    return "mixed case"
+    return "mixed cased"
   }
 }
