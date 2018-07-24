@@ -22,7 +22,7 @@ function logShout(string) {
   console.log(string.toUpperCase())
 }
 
-function lowWhisper(string) {
+function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
